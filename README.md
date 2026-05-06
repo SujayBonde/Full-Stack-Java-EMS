@@ -32,23 +32,3 @@ This project demonstrates complete **CRUD operations** (Create, Read, Update, De
 
 ---
 
-## 📂 Project Structure
-Employee-Management-System/
-│
-├── emp-backend/          # Spring Boot backend
-│   ├── controller/       # REST Controllers
-│   ├── dto/              # Data Transfer Objects
-│   ├── service/          # Business Logic
-│   └── repository/       # JPA Repositories
-│
-├── emp-frontend/         # React frontend
-│   ├── src/
-│   │   ├── components/   # React Components
-│   │   ├── services/     # Axios API calls
-│   │   └── assets/       # Static files
-│   └── vite.config.js
-│
-└── README.md
-
-
----
